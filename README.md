@@ -1,24 +1,3 @@
-# 自动生成代码
+# 展示分页打印带表头的 demo 案列和甘特图的案例
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://juejin.cn/post/7039177242076807181
